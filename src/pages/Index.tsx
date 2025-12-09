@@ -45,7 +45,7 @@ const Index = () => {
               Отчет по дисциплине ТЦО
             </h1>
             <p className="text-xl text-muted-foreground mb-6">
-              Студент: [Ваше имя]
+              Студент: Дарья
             </p>
             <div className="flex justify-center gap-4 flex-wrap">
               <Badge variant="outline" className="text-base px-4 py-2">
